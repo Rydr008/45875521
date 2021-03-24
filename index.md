@@ -1,5 +1,5 @@
 <head>
 <body>
 <body>
-	<img src="qrcode.jpg">
+	<img src="code.png">
 </body>
